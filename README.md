@@ -12,14 +12,14 @@ LogicLoop is a systematic framework for mastering technical concepts by reverse-
 
 ---
 
-## Learning Loop used in practice 
-*Note: Works better if you discard and rewrite your original md from scratch on new loop, it solidifies newly learned concepts in your mind*
+## The Learning Loop in Practice 
+*Pro Tip: Rewriting your draft from scratch for each loop forces active recall; this is where the real learning happens.*
 
-- Make a working 'black box' script.
-- Discuss with AI how things work.
-- Lay out concepts as if teaching someone.
-- Use AI to generate a corrections MD aligned with script functionality.
-- Let the AI format, clean, and organize the original document. (makes reading it more pleasant)
+- **Build:** Create a working 'black box' script. *(Secure a quick win and a dopamine hit to fuel the rest of the loop.)*
+- **Explore:** Discuss the logic with AI. *(Stress-test your assumptions and explore the mechanism playfully.)*
+- **Synthesize:** Draft the concepts as if teaching a peer. *(The Feynman Technique: Imagine you are explaining the cool new thing you just discovered.)*
+- **Audit:** Use AI to generate a correction log against the code. *(Ground fluid ideas into known truths. Skip the "50-book detour" and replace floating assumptions with concrete conviction—giving your brain a solid structural block to build upon, discarding the "stuck/unsure" state, and freeing your attention.)*
+- **Polish:** Let the AI structure and organize the final document. *(Transform rough notes into a high-fidelity reference you'll actually return to.)*
 
 ## Example of actual flow: NLP Training
 
