@@ -10,6 +10,8 @@ LogicLoop is a systematic framework for mastering technical concepts by reverse-
 3. **The Audit:** Use AI to cross-reference your model against the code.
 4. **The Refinement:** Produce a high-fidelity "White Box" document.
 
+*Note: A CLI agent that can modify files and run commands is the ultimate loop companion—it bridges the gap between "thinking" and "doing" without leaving the terminal.*
+
 ---
 
 ## The Learning Loop in Practice 
