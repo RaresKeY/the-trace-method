@@ -1,0 +1,26 @@
+I am learning by reverse-engineering the attached code.
+I have written a draft "Mental Model" (attached/pasted below) describing how I THINK it works.
+
+Your Goal: Read my draft and find out how far I am from the actual process used in the code.
+
+**Output Requirement:**
+Create a Markdown file that **FIRST** clearly marks corrected concepts. You must quote exactly what is wrong in my draft and provide the correction based *strictly* on the code logic.
+
+Structure your response as follows:
+
+### 1. Correction Log (Priority)
+Iterate through every wrong detail and high-level concept in my draft:
+- **Original Text:** "> [Quote the specific wrong sentence/phrase from my draft]"
+- **Correction:** [Explain the actual logic found in the code]
+- **Scope:** [Detail OR High-Level Concept]
+
+### 2. Missing Mechanisms
+- List any important code logic or steps I completely overlooked.
+
+### 3. Vocabulary Check
+- Correct any imprecise definitions or misuse of technical terms.
+
+### 4. Code Mapping
+- Link my correct assumptions to specific line numbers or functions in the code.
+
+Do NOT rewrite the full explanation yet. Just provide this detailed audit so I can fix the gaps myself.
