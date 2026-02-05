@@ -21,21 +21,29 @@ LogicLoop is a systematic framework for mastering technical concepts by reverse-
 - **Audit:** Use AI to generate a correction log against the code. *(Ground fluid ideas into known truths. Skip the "50-book detour" and replace floating assumptions with concrete conviction—giving your brain a solid structural block to build upon, discarding the "stuck/unsure" state, and freeing your attention.)*
 - **Polish:** Let the AI structure and organize the final document. *(Transform rough notes into a high-fidelity reference you'll actually return to.)*
 
-## Example of actual flow: NLP Training
+## Case Study: The NLP Loop
+*A real-world example of using LogicLoop to master a simple Neural Network.*
 
-### 1. Initial Ask (Prompt 1)
-Read `@Training an NLP model from scratch.md` and find out how far I am from the actual process used in `@train.py`. Refactor the file for better formatting while keeping the style of the speaker. Do not hallucinate data. Correct pacing, concepts, and mentions, organizing it logically for a learner. First, clearly mark corrected concepts in a markdown file by quoting what is wrong and providing the correction.
+### Phase 1: The Gap Analysis
+**Goal:** Identify exactly where my "Mental Model" drifts from the code's reality.
+**The Prompt:**
+> "Read `@draft.md` and find out how far I am from the actual process used in `@train.py`. Refactor the file for better formatting while keeping my style. **First, clearly mark corrected concepts in a markdown file by quoting what is wrong and providing the correction.**"
 
-### 2. Technical Details - Ask what you don't understand (Prompt 2)
-Add a technical details section (linked in preamble). Explain concepts conceptually and link key words to the technical section containing concise examples and explanations:
-- How do we calculate loss? 
-- How do we vectorize (manual vs. random)? 
-- How do we nudge neurons and connections during training? 
-- What are the detailed steps in the training process?
-- Advanced section: How to use ngrams, fasttext, and other modern techniques.
+### Phase 2: The Deep Dive
+**Goal:** Fill the specific knowledge gaps identified in Phase 1.
+**The Prompt:**
+> "Add a 'Technical Details' section. Explain these concepts conceptually and link key words to concise technical examples:
+> - How do we calculate loss?
+> - How do we vectorize (manual vs. random)?
+> - How do we nudge neurons/connections?
+> - Advanced: How to use ngrams/fasttext?"
 
-### 3. Refine Style (Prompt 3)
-Add refined conceptual explanations and examples that align with the style of the original text.
+### Phase 3: Style Alignment
+**Goal:** Ensure the new technical knowledge blends seamlessly with my original voice.
+**The Prompt:**
+> "Add refined conceptual explanations and examples that align with the style of the original text.
 
-### 4. Final Touch (Prompt 4)
-Format `@Training an NLP model from scratch.md` for final delivery.
+### Phase 4: Final Polish
+**Goal:** Structure the document for long-term storage.
+**The Prompt:**
+> "Format `@final.md` for delivery. Clean up the headers, ensure links work, and make it pleasant to read."
